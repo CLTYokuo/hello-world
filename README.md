@@ -4,4 +4,4 @@ At the current moment, our project simply takes in the name and age of the user 
 
 For people looking to help add the project, we are looking to expand the ages you can check and other things you can do with what the program asks. Users can access WhenIm50.ipynb to see the code and look at what changes they would like to make. However with any changes please follow our code of conduct or you can no longer contribute to the project. 
 
-For using the code given please look at the LICENSE.md for all the specifics. 
+For using the code given please look at the LICENSE.md for all the specifics. To apply the license use this set of rules that are located at the bottom of the LICENSE.md document.
